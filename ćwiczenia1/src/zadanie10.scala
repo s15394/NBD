@@ -5,13 +5,13 @@ object zadanie10 {
     val list: List[Double] = List(1.0, -5.5, -5.0, -4.2, 10.123, 11.99, 12.2)
     println("Lista przed filtracją")
     println(list)
-    println("Lista przed filtracją")
+    println("Lista po filtracją")
     println(filterAndAbs(list))
   }
 
   def filterAndAbs(list: List[Double]): List[Double] = {
-    list.filter(_ > -5)
-      .filter(_ < 12)
+    list.filter(_ >= -5)
+      .filter(_ <= 12)
       .map(_.abs)
   }
 }

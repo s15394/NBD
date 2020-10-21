@@ -6,7 +6,6 @@ object zadanie6 {
   }
 
   def printTuple(tuple3: (Any, Any, Any)): Unit = {
-    tuple3.productIterator
-      .foreach(println)
+    println(s"Wartości krotki ${tuple3.productIterator.mkString(", ")}")
   }
 }
