@@ -5,7 +5,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Afghanistan",
 		"value" : {
-			"avg_bmi" : 95.18392334496879,
+			"avg_bmi" : 25.048400880254945,
 			"min_bmi" : 18.4302993485763,
 			"max_bmi" : 31.680724277814612
 		}
@@ -21,7 +21,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Albania",
 		"value" : {
-			"avg_bmi" : 469.4698274644927,
+			"avg_bmi" : 24.70893828760488,
 			"min_bmi" : 18.995343497963386,
 			"max_bmi" : 31.98582559382973
 		}
@@ -53,7 +53,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Angola",
 		"value" : {
-			"avg_bmi" : 96.71870248415728,
+			"avg_bmi" : 24.17967562103932,
 			"min_bmi" : 18.362400744093293,
 			"max_bmi" : 31.67480491405164
 		}
@@ -61,7 +61,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Argentina",
 		"value" : {
-			"avg_bmi" : 1258.1638880789965,
+			"avg_bmi" : 25.6768140424285,
 			"min_bmi" : 17.58733455568425,
 			"max_bmi" : 34.13224063185605
 		}
@@ -69,7 +69,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Armenia",
 		"value" : {
-			"avg_bmi" : 486.3648917895894,
+			"avg_bmi" : 24.94178932254305,
 			"min_bmi" : 19.17386933002285,
 			"max_bmi" : 31.668511004463014
 		}
@@ -77,7 +77,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Australia",
 		"value" : {
-			"avg_bmi" : 37.79257073746511,
+			"avg_bmi" : 25.195047158310075,
 			"min_bmi" : 20.65310909810227,
 			"max_bmi" : 29.824555993432554
 		}
@@ -85,7 +85,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Austria",
 		"value" : {
-			"avg_bmi" : 97.7859112290533,
+			"avg_bmi" : 27.938831779729515,
 			"min_bmi" : 23.01532709975852,
 			"max_bmi" : 37.259975846114166
 		}
@@ -93,7 +93,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Azerbaijan",
 		"value" : {
-			"avg_bmi" : 118.64466824262713,
+			"avg_bmi" : 25.953521178074684,
 			"min_bmi" : 18.770569815679924,
 			"max_bmi" : 36.93348217200575
 		}
@@ -101,7 +101,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Bahamas",
 		"value" : {
-			"avg_bmi" : 41.65802720402463,
+			"avg_bmi" : 24.994816322414774,
 			"min_bmi" : 22.243665360172294,
 			"max_bmi" : 26.596494551398333
 		}
@@ -109,7 +109,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Bangladesh",
 		"value" : {
-			"avg_bmi" : 240.24110660046372,
+			"avg_bmi" : 26.693456288940414,
 			"min_bmi" : 19.809821191475773,
 			"max_bmi" : 34.06297114172176
 		}
@@ -125,7 +125,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Belarus",
 		"value" : {
-			"avg_bmi" : 121.68846669494903,
+			"avg_bmi" : 25.469679075687008,
 			"min_bmi" : 17.86291107456045,
 			"max_bmi" : 33.93864732017481
 		}
@@ -133,7 +133,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Belgium",
 		"value" : {
-			"avg_bmi" : 43.567964376694,
+			"avg_bmi" : 26.140778626016402,
 			"min_bmi" : 20.047926099827215,
 			"max_bmi" : 28.997682388567068
 		}
@@ -141,7 +141,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Belize",
 		"value" : {
-			"avg_bmi" : 46.44007863981493,
+			"avg_bmi" : 23.220039319907464,
 			"min_bmi" : 18.424047224128543,
 			"max_bmi" : 26.22341661344843
 		}
@@ -149,7 +149,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Benin",
 		"value" : {
-			"avg_bmi" : 60.14951732991085,
+			"avg_bmi" : 25.77836456996179,
 			"min_bmi" : 21.326707132619113,
 			"max_bmi" : 30.296481888973993
 		}
@@ -157,7 +157,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Bhutan",
 		"value" : {
-			"avg_bmi" : 72.16981468374601,
+			"avg_bmi" : 24.056604894582005,
 			"min_bmi" : 19.41885638320743,
 			"max_bmi" : 31.35770002294631
 		}
@@ -165,7 +165,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Bolivia",
 		"value" : {
-			"avg_bmi" : 109.59696260199955,
+			"avg_bmi" : 25.291606754307587,
 			"min_bmi" : 20.461244736382792,
 			"max_bmi" : 32.04862302606189
 		}
@@ -173,7 +173,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Bosnia and Herzegovina",
 		"value" : {
-			"avg_bmi" : 135.56602522835058,
+			"avg_bmi" : 25.418629730315732,
 			"min_bmi" : 16.930664311421886,
 			"max_bmi" : 35.97395007994128
 		}
@@ -181,7 +181,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Botswana",
 		"value" : {
-			"avg_bmi" : 98.61206982612578,
+			"avg_bmi" : 24.653017456531444,
 			"min_bmi" : 21.66103584914847,
 			"max_bmi" : 27.18178743838766
 		}
@@ -189,7 +189,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Brazil",
 		"value" : {
-			"avg_bmi" : 1372.3984667774318,
+			"avg_bmi" : 25.61810471317873,
 			"min_bmi" : 17.455901881799917,
 			"max_bmi" : 40.629137270681994
 		}
@@ -205,7 +205,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Bulgaria",
 		"value" : {
-			"avg_bmi" : 417.9291604883005,
+			"avg_bmi" : 24.584068264017677,
 			"min_bmi" : 18.415763633181026,
 			"max_bmi" : 32.5985033633058
 		}
@@ -213,7 +213,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Burkina Faso",
 		"value" : {
-			"avg_bmi" : 91.93824443832595,
+			"avg_bmi" : 27.581473331497783,
 			"min_bmi" : 19.874924416260065,
 			"max_bmi" : 39.84736448162324
 		}
@@ -221,7 +221,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Burundi",
 		"value" : {
-			"avg_bmi" : 38.47246942344324,
+			"avg_bmi" : 25.64831294896216,
 			"min_bmi" : 23.41760581267604,
 			"max_bmi" : 28.50245013159454
 		}
@@ -229,7 +229,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Cambodia",
 		"value" : {
-			"avg_bmi" : 41.07595691758643,
+			"avg_bmi" : 27.383971278390955,
 			"min_bmi" : 21.873859826171213,
 			"max_bmi" : 33.32850035102713
 		}
@@ -237,7 +237,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Cameroon",
 		"value" : {
-			"avg_bmi" : 82.122317784741,
+			"avg_bmi" : 24.6366953354223,
 			"min_bmi" : 19.681646953380184,
 			"max_bmi" : 33.171539196923106
 		}
@@ -245,7 +245,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Canada",
 		"value" : {
-			"avg_bmi" : 120.74297116971668,
+			"avg_bmi" : 25.522904474899462,
 			"min_bmi" : 18.337991820012604,
 			"max_bmi" : 33.61303753837222
 		}
@@ -253,7 +253,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Cape Verde",
 		"value" : {
-			"avg_bmi" : 50.66932349977094,
+			"avg_bmi" : 25.33466174988547,
 			"min_bmi" : 19.20724222151505,
 			"max_bmi" : 35.04527266278727
 		}
@@ -261,7 +261,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Central African Republic",
 		"value" : {
-			"avg_bmi" : 71.7503619908009,
+			"avg_bmi" : 23.916787330266967,
 			"min_bmi" : 19.614899401982278,
 			"max_bmi" : 28.954561237220556
 		}
@@ -277,7 +277,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Chile",
 		"value" : {
-			"avg_bmi" : 99.47872224268914,
+			"avg_bmi" : 24.869680560672286,
 			"min_bmi" : 16.9512916270108,
 			"max_bmi" : 29.79885840825515
 		}
@@ -285,7 +285,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "China",
 		"value" : {
-			"avg_bmi" : 1038.6113316993035,
+			"avg_bmi" : 25.581559894071514,
 			"min_bmi" : 15.457567797405272,
 			"max_bmi" : 42.36228470295768
 		}
@@ -293,7 +293,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Colombia",
 		"value" : {
-			"avg_bmi" : 644.4964506637173,
+			"avg_bmi" : 25.77985802654869,
 			"min_bmi" : 18.549317336103282,
 			"max_bmi" : 35.4010351305359
 		}
@@ -301,7 +301,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Comoros",
 		"value" : {
-			"avg_bmi" : 127.19521517168977,
+			"avg_bmi" : 25.439043034337953,
 			"min_bmi" : 19.73678859401531,
 			"max_bmi" : 33.86465840113391
 		}
@@ -309,7 +309,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Costa Rica",
 		"value" : {
-			"avg_bmi" : 131.46899913173442,
+			"avg_bmi" : 24.650437337200206,
 			"min_bmi" : 20.494010942211922,
 			"max_bmi" : 28.898569613792333
 		}
@@ -317,7 +317,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Croatia",
 		"value" : {
-			"avg_bmi" : 126.37077733328063,
+			"avg_bmi" : 24.85982504916996,
 			"min_bmi" : 18.791459338166646,
 			"max_bmi" : 38.54454850434303
 		}
@@ -325,7 +325,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Cuba",
 		"value" : {
-			"avg_bmi" : 89.68925061331554,
+			"avg_bmi" : 26.37919135685751,
 			"min_bmi" : 18.489462979361967,
 			"max_bmi" : 35.42409829567975
 		}
@@ -333,7 +333,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Cyprus",
 		"value" : {
-			"avg_bmi" : 41.98965365335304,
+			"avg_bmi" : 25.19379219201182,
 			"min_bmi" : 22.195141736787935,
 			"max_bmi" : 29.825489728395752
 		}
@@ -341,7 +341,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Czech Republic",
 		"value" : {
-			"avg_bmi" : 812.5526480261134,
+			"avg_bmi" : 25.23455428652526,
 			"min_bmi" : 18.56386639676774,
 			"max_bmi" : 33.15190133598319
 		}
@@ -349,7 +349,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Democratic Republic of the Congo",
 		"value" : {
-			"avg_bmi" : 79.59081361648592,
+			"avg_bmi" : 26.530271205495307,
 			"min_bmi" : 18.27553140160477,
 			"max_bmi" : 33.515401571866754
 		}
@@ -357,7 +357,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Denmark",
 		"value" : {
-			"avg_bmi" : 70.71200038341902,
+			"avg_bmi" : 23.57066679447301,
 			"min_bmi" : 21.08473436367003,
 			"max_bmi" : 27.824860598421296
 		}
@@ -373,7 +373,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Dominican Republic",
 		"value" : {
-			"avg_bmi" : 169.08543246388047,
+			"avg_bmi" : 24.15506178055435,
 			"min_bmi" : 18.01287119956941,
 			"max_bmi" : 30.32549350733766
 		}
@@ -381,7 +381,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "East Timor",
 		"value" : {
-			"avg_bmi" : 34.437305003549746,
+			"avg_bmi" : 25.827978752662307,
 			"min_bmi" : 21.52514539442196,
 			"max_bmi" : 32.7295665335962
 		}
@@ -389,7 +389,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Ecuador",
 		"value" : {
-			"avg_bmi" : 128.31275143785106,
+			"avg_bmi" : 25.66255028757021,
 			"min_bmi" : 19.837789435759387,
 			"max_bmi" : 31.540757595400457
 		}
@@ -397,7 +397,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Egypt",
 		"value" : {
-			"avg_bmi" : 283.25700957266514,
+			"avg_bmi" : 24.279172249085583,
 			"min_bmi" : 17.650429873238075,
 			"max_bmi" : 32.033722500448945
 		}
@@ -405,7 +405,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "El Salvador",
 		"value" : {
-			"avg_bmi" : 202.78688801154237,
+			"avg_bmi" : 25.348361001442797,
 			"min_bmi" : 21.92582816065902,
 			"max_bmi" : 33.56299576484531
 		}
@@ -429,7 +429,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Estonia",
 		"value" : {
-			"avg_bmi" : 140.48174893125213,
+			"avg_bmi" : 25.542136169318567,
 			"min_bmi" : 18.560878620789442,
 			"max_bmi" : 28.68360155605993
 		}
@@ -437,7 +437,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Ethiopia",
 		"value" : {
-			"avg_bmi" : 318.4245744098754,
+			"avg_bmi" : 25.47396595279003,
 			"min_bmi" : 20.55367285745029,
 			"max_bmi" : 32.85411863239378
 		}
@@ -453,7 +453,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Finland",
 		"value" : {
-			"avg_bmi" : 94.62811251605626,
+			"avg_bmi" : 25.62844713976524,
 			"min_bmi" : 18.313044445355132,
 			"max_bmi" : 36.88879211052598
 		}
@@ -461,7 +461,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "France",
 		"value" : {
-			"avg_bmi" : 1518.1164372466255,
+			"avg_bmi" : 25.217881017385807,
 			"min_bmi" : 17.6805182946428,
 			"max_bmi" : 40.68709814176658
 		}
@@ -493,7 +493,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Gambia",
 		"value" : {
-			"avg_bmi" : 106.98032350103954,
+			"avg_bmi" : 23.77340522245323,
 			"min_bmi" : 17.84046677774891,
 			"max_bmi" : 29.041518380755527
 		}
@@ -501,7 +501,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Georgia",
 		"value" : {
-			"avg_bmi" : 170.242070770924,
+			"avg_bmi" : 24.320295824417713,
 			"min_bmi" : 19.907789367690288,
 			"max_bmi" : 27.6963070482808
 		}
@@ -509,7 +509,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Germany",
 		"value" : {
-			"avg_bmi" : 369.31660492733914,
+			"avg_bmi" : 24.621106995155944,
 			"min_bmi" : 19.812818818124008,
 			"max_bmi" : 32.56393192452176
 		}
@@ -517,7 +517,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Ghana",
 		"value" : {
-			"avg_bmi" : 116.30033998405679,
+			"avg_bmi" : 25.844519996457066,
 			"min_bmi" : 22.309636417250765,
 			"max_bmi" : 32.50433727787583
 		}
@@ -525,7 +525,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Greece",
 		"value" : {
-			"avg_bmi" : 1124.7541350873328,
+			"avg_bmi" : 25.757728284442738,
 			"min_bmi" : 19.126762812266065,
 			"max_bmi" : 41.52589808442401
 		}
@@ -549,7 +549,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Guam",
 		"value" : {
-			"avg_bmi" : 33.67529048718257,
+			"avg_bmi" : 22.450193658121716,
 			"min_bmi" : 20.673090321864905,
 			"max_bmi" : 24.012673635721274
 		}
@@ -557,7 +557,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Guatemala",
 		"value" : {
-			"avg_bmi" : 102.97159837417419,
+			"avg_bmi" : 25.742899593543548,
 			"min_bmi" : 19.619608992088942,
 			"max_bmi" : 32.13075314700059
 		}
@@ -565,7 +565,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Guinea",
 		"value" : {
-			"avg_bmi" : 55.8284431935964,
+			"avg_bmi" : 27.9142215967982,
 			"min_bmi" : 20.460478773371793,
 			"max_bmi" : 34.462128538412365
 		}
@@ -589,7 +589,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Haiti",
 		"value" : {
-			"avg_bmi" : 95.52950307415524,
+			"avg_bmi" : 26.053500838405977,
 			"min_bmi" : 21.953951096958047,
 			"max_bmi" : 34.706505929936306
 		}
@@ -597,7 +597,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Honduras",
 		"value" : {
-			"avg_bmi" : 161.37550404114086,
+			"avg_bmi" : 25.48034274333803,
 			"min_bmi" : 18.483295476526518,
 			"max_bmi" : 35.22066445474855
 		}
@@ -613,7 +613,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Hungary",
 		"value" : {
-			"avg_bmi" : 78.94222090216141,
+			"avg_bmi" : 26.314073634053802,
 			"min_bmi" : 22.357117184320284,
 			"max_bmi" : 32.69237888437416
 		}
@@ -621,7 +621,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Iceland",
 		"value" : {
-			"avg_bmi" : 76.77285279760727,
+			"avg_bmi" : 25.59095093253576,
 			"min_bmi" : 22.674667319714626,
 			"max_bmi" : 30.14738226195103
 		}
@@ -629,7 +629,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Indonesia",
 		"value" : {
-			"avg_bmi" : 1175.068192478629,
+			"avg_bmi" : 25.49676266698912,
 			"min_bmi" : 14.752916025545577,
 			"max_bmi" : 45.2254888114332
 		}
@@ -637,7 +637,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Iran",
 		"value" : {
-			"avg_bmi" : 239.1378863240491,
+			"avg_bmi" : 25.852744467464767,
 			"min_bmi" : 18.237996217377763,
 			"max_bmi" : 37.98020856315509
 		}
@@ -645,7 +645,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Iraq",
 		"value" : {
-			"avg_bmi" : 144.58639402066123,
+			"avg_bmi" : 24.097732336776872,
 			"min_bmi" : 17.811382149213077,
 			"max_bmi" : 33.23798843565602
 		}
@@ -653,7 +653,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Ireland",
 		"value" : {
-			"avg_bmi" : 192.00059930317428,
+			"avg_bmi" : 25.94602693286139,
 			"min_bmi" : 17.753180049744596,
 			"max_bmi" : 33.51950090390849
 		}
@@ -661,7 +661,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Israel",
 		"value" : {
-			"avg_bmi" : 186.64572421432425,
+			"avg_bmi" : 25.451689665589672,
 			"min_bmi" : 21.291597916349946,
 			"max_bmi" : 30.14483568029636
 		}
@@ -669,7 +669,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Italy",
 		"value" : {
-			"avg_bmi" : 214.40781278345833,
+			"avg_bmi" : 25.224448562759804,
 			"min_bmi" : 18.626656995429222,
 			"max_bmi" : 31.28284127929142
 		}
@@ -677,7 +677,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Ivory Coast",
 		"value" : {
-			"avg_bmi" : 200.54371663728278,
+			"avg_bmi" : 26.739162218304372,
 			"min_bmi" : 20.497202679469442,
 			"max_bmi" : 35.26565858224913
 		}
@@ -685,7 +685,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Jamaica",
 		"value" : {
-			"avg_bmi" : 83.10499640083445,
+			"avg_bmi" : 24.931498920250338,
 			"min_bmi" : 22.275369146558596,
 			"max_bmi" : 28.975717835121532
 		}
@@ -693,7 +693,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Japan",
 		"value" : {
-			"avg_bmi" : 1517.3387470873831,
+			"avg_bmi" : 25.288979118123052,
 			"min_bmi" : 18.90452276508069,
 			"max_bmi" : 37.208271542614156
 		}
@@ -701,7 +701,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Jordan",
 		"value" : {
-			"avg_bmi" : 71.04850733959783,
+			"avg_bmi" : 26.643190252349186,
 			"min_bmi" : 21.210207189566123,
 			"max_bmi" : 32.353159768034715
 		}
@@ -709,7 +709,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Kazakhstan",
 		"value" : {
-			"avg_bmi" : 62.524717352548144,
+			"avg_bmi" : 25.872296835537163,
 			"min_bmi" : 16.8070799358325,
 			"max_bmi" : 36.896740125150984
 		}
@@ -717,7 +717,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Kenya",
 		"value" : {
-			"avg_bmi" : 271.3722656319925,
+			"avg_bmi" : 25.84497767923738,
 			"min_bmi" : 21.963094173998595,
 			"max_bmi" : 32.415973001368904
 		}
@@ -733,7 +733,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Kosovo",
 		"value" : {
-			"avg_bmi" : 48.26190366480764,
+			"avg_bmi" : 24.13095183240382,
 			"min_bmi" : 19.254012570630334,
 			"max_bmi" : 29.624326587170813
 		}
@@ -741,7 +741,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Kuwait",
 		"value" : {
-			"avg_bmi" : 88.31082754170731,
+			"avg_bmi" : 25.231665011916373,
 			"min_bmi" : 22.43979747671335,
 			"max_bmi" : 27.184318738806667
 		}
@@ -749,7 +749,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Kyrgyzstan",
 		"value" : {
-			"avg_bmi" : 190.3565053883098,
+			"avg_bmi" : 23.794563173538727,
 			"min_bmi" : 16.846474930530864,
 			"max_bmi" : 34.05576978971841
 		}
@@ -757,7 +757,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Laos",
 		"value" : {
-			"avg_bmi" : 43.236480875303,
+			"avg_bmi" : 24.706560500173143,
 			"min_bmi" : 20.414405907869938,
 			"max_bmi" : 28.47054793500705
 		}
@@ -765,7 +765,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Latvia",
 		"value" : {
-			"avg_bmi" : 186.4433982417791,
+			"avg_bmi" : 26.634771177397017,
 			"min_bmi" : 18.435535988693054,
 			"max_bmi" : 32.88731053562053
 		}
@@ -773,7 +773,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Lebanon",
 		"value" : {
-			"avg_bmi" : 41.26350233700731,
+			"avg_bmi" : 27.509001558004872,
 			"min_bmi" : 22.696782965005376,
 			"max_bmi" : 32.444431072334524
 		}
@@ -789,7 +789,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Liberia",
 		"value" : {
-			"avg_bmi" : 77.70463961649611,
+			"avg_bmi" : 25.901546538832037,
 			"min_bmi" : 22.64819265750957,
 			"max_bmi" : 29.63330910128883
 		}
@@ -797,7 +797,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Libya",
 		"value" : {
-			"avg_bmi" : 118.18774153538159,
+			"avg_bmi" : 27.274094200472675,
 			"min_bmi" : 21.42742372829579,
 			"max_bmi" : 35.14959498858504
 		}
@@ -805,7 +805,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Lithuania",
 		"value" : {
-			"avg_bmi" : 92.77399171189369,
+			"avg_bmi" : 24.41420834523518,
 			"min_bmi" : 19.68833974966633,
 			"max_bmi" : 30.887830005968027
 		}
@@ -813,7 +813,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Luxembourg",
 		"value" : {
-			"avg_bmi" : 249.95571961020383,
+			"avg_bmi" : 26.311128380021454,
 			"min_bmi" : 19.267057864459574,
 			"max_bmi" : 33.21935122648016
 		}
@@ -829,7 +829,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Macedonia",
 		"value" : {
-			"avg_bmi" : 251.6954316733824,
+			"avg_bmi" : 25.16954316733824,
 			"min_bmi" : 20.495052187246902,
 			"max_bmi" : 32.52569417786054
 		}
@@ -837,7 +837,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Madagascar",
 		"value" : {
-			"avg_bmi" : 57.1918928016806,
+			"avg_bmi" : 24.783153547394928,
 			"min_bmi" : 17.556666479697988,
 			"max_bmi" : 30.189583737327382
 		}
@@ -853,7 +853,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Malaysia",
 		"value" : {
-			"avg_bmi" : 350.03598287146184,
+			"avg_bmi" : 25.61238899059477,
 			"min_bmi" : 18.54461856797744,
 			"max_bmi" : 36.53428355033911
 		}
@@ -861,7 +861,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Maldives",
 		"value" : {
-			"avg_bmi" : 42.31645131804893,
+			"avg_bmi" : 25.389870790829356,
 			"min_bmi" : 23.654619429922963,
 			"max_bmi" : 28.25830239759801
 		}
@@ -869,7 +869,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Mali",
 		"value" : {
-			"avg_bmi" : 149.51646181655954,
+			"avg_bmi" : 24.919410302759925,
 			"min_bmi" : 19.246685556164678,
 			"max_bmi" : 31.67016743066081
 		}
@@ -877,7 +877,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Malta",
 		"value" : {
-			"avg_bmi" : 122.1247087618658,
+			"avg_bmi" : 26.169580448971242,
 			"min_bmi" : 22.120384249306703,
 			"max_bmi" : 36.01978908588236
 		}
@@ -909,7 +909,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Mauritius",
 		"value" : {
-			"avg_bmi" : 165.7084508376116,
+			"avg_bmi" : 25.493607821171015,
 			"min_bmi" : 19.225308641975307,
 			"max_bmi" : 38.86342108446306
 		}
@@ -917,7 +917,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Mexico",
 		"value" : {
-			"avg_bmi" : 143.2928813602519,
+			"avg_bmi" : 25.47429001960034,
 			"min_bmi" : 18.91785799534758,
 			"max_bmi" : 36.2708751496718
 		}
@@ -925,7 +925,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Micronesia",
 		"value" : {
-			"avg_bmi" : 31.07645983617427,
+			"avg_bmi" : 23.307344877130703,
 			"min_bmi" : 20.483583148077006,
 			"max_bmi" : 25.24886656617766
 		}
@@ -933,7 +933,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Moldova",
 		"value" : {
-			"avg_bmi" : 119.34047157337018,
+			"avg_bmi" : 25.572958194293612,
 			"min_bmi" : 19.688381123290277,
 			"max_bmi" : 32.56715420989366
 		}
@@ -949,7 +949,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Mongolia",
 		"value" : {
-			"avg_bmi" : 336.39953204261775,
+			"avg_bmi" : 24.028538003044122,
 			"min_bmi" : 19.12334810050309,
 			"max_bmi" : 31.47600262984878
 		}
@@ -957,7 +957,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Montenegro",
 		"value" : {
-			"avg_bmi" : 108.02776822579015,
+			"avg_bmi" : 24.006170716842256,
 			"min_bmi" : 20.73659089443422,
 			"max_bmi" : 29.526909667433987
 		}
@@ -965,7 +965,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Morocco",
 		"value" : {
-			"avg_bmi" : 125.67856774596316,
+			"avg_bmi" : 25.874999241815946,
 			"min_bmi" : 20.182304322324796,
 			"max_bmi" : 32.90604019213787
 		}
@@ -973,7 +973,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Mozambique",
 		"value" : {
-			"avg_bmi" : 51.12588721768336,
+			"avg_bmi" : 25.56294360884168,
 			"min_bmi" : 22.800359685650264,
 			"max_bmi" : 29.44789535394624
 		}
@@ -981,7 +981,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Myanmar",
 		"value" : {
-			"avg_bmi" : 285.60824810110887,
+			"avg_bmi" : 25.964386191009897,
 			"min_bmi" : 20.99743660839639,
 			"max_bmi" : 31.448459395139455
 		}
@@ -1005,7 +1005,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Nepal",
 		"value" : {
-			"avg_bmi" : 211.4747950917837,
+			"avg_bmi" : 26.434349386472963,
 			"min_bmi" : 19.748973244733463,
 			"max_bmi" : 31.078489717648623
 		}
@@ -1013,7 +1013,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Netherlands",
 		"value" : {
-			"avg_bmi" : 429.4071632323912,
+			"avg_bmi" : 26.02467655953886,
 			"min_bmi" : 19.37514915181097,
 			"max_bmi" : 34.91379070141339
 		}
@@ -1029,7 +1029,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "New Zealand",
 		"value" : {
-			"avg_bmi" : 67.62611771978503,
+			"avg_bmi" : 25.359794144919384,
 			"min_bmi" : 20.015037796508505,
 			"max_bmi" : 33.708938690778766
 		}
@@ -1037,7 +1037,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Nicaragua",
 		"value" : {
-			"avg_bmi" : 90.64105591440384,
+			"avg_bmi" : 24.17094824384102,
 			"min_bmi" : 19.7754882642013,
 			"max_bmi" : 30.0372110793386
 		}
@@ -1045,7 +1045,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Niger",
 		"value" : {
-			"avg_bmi" : 70.35914552227239,
+			"avg_bmi" : 26.384679570852143,
 			"min_bmi" : 20.07204296186382,
 			"max_bmi" : 30.22683231486928
 		}
@@ -1053,7 +1053,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Nigeria",
 		"value" : {
-			"avg_bmi" : 119.87820964788756,
+			"avg_bmi" : 24.80238820301122,
 			"min_bmi" : 16.860335772659226,
 			"max_bmi" : 36.16277887197436
 		}
@@ -1061,7 +1061,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "North Korea",
 		"value" : {
-			"avg_bmi" : 170.33344915159682,
+			"avg_bmi" : 26.205146023322587,
 			"min_bmi" : 20.924212172010197,
 			"max_bmi" : 30.614290364070985
 		}
@@ -1077,7 +1077,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Norway",
 		"value" : {
-			"avg_bmi" : 513.2290127901905,
+			"avg_bmi" : 27.012053304746868,
 			"min_bmi" : 19.602504292612466,
 			"max_bmi" : 35.1671816861818
 		}
@@ -1085,7 +1085,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Oman",
 		"value" : {
-			"avg_bmi" : 38.53233170374951,
+			"avg_bmi" : 25.688221135833007,
 			"min_bmi" : 23.599509054084226,
 			"max_bmi" : 27.084022161790852
 		}
@@ -1093,7 +1093,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Pakistan",
 		"value" : {
-			"avg_bmi" : 600.6759239251661,
+			"avg_bmi" : 25.02816349688192,
 			"min_bmi" : 17.507302336811122,
 			"max_bmi" : 35.54144749573527
 		}
@@ -1109,7 +1109,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Palestinian Territory",
 		"value" : {
-			"avg_bmi" : 94.42315298995119,
+			"avg_bmi" : 25.519771078365185,
 			"min_bmi" : 19.179525110549182,
 			"max_bmi" : 35.54150728191122
 		}
@@ -1117,7 +1117,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Panama",
 		"value" : {
-			"avg_bmi" : 324.89944018845347,
+			"avg_bmi" : 24.992264629881035,
 			"min_bmi" : 20.497034879989776,
 			"max_bmi" : 33.204916913317156
 		}
@@ -1125,7 +1125,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Papua New Guinea",
 		"value" : {
-			"avg_bmi" : 32.28435211600276,
+			"avg_bmi" : 24.213264087002067,
 			"min_bmi" : 19.859417039821555,
 			"max_bmi" : 26.903589650913545
 		}
@@ -1133,7 +1133,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Paraguay",
 		"value" : {
-			"avg_bmi" : 142.34047876495768,
+			"avg_bmi" : 25.118908017345476,
 			"min_bmi" : 21.194188847738655,
 			"max_bmi" : 32.97774797284501
 		}
@@ -1141,7 +1141,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Peru",
 		"value" : {
-			"avg_bmi" : 610.7556014350347,
+			"avg_bmi" : 25.272645576622125,
 			"min_bmi" : 17.806002361986923,
 			"max_bmi" : 36.36334544992972
 		}
@@ -1149,7 +1149,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Philippines",
 		"value" : {
-			"avg_bmi" : 725.3843950011641,
+			"avg_bmi" : 25.206407548302998,
 			"min_bmi" : 17.747775714237722,
 			"max_bmi" : 40.14921877820496
 		}
@@ -1157,7 +1157,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Poland",
 		"value" : {
-			"avg_bmi" : 1633.568091009922,
+			"avg_bmi" : 25.287431749379596,
 			"min_bmi" : 18.006317259010835,
 			"max_bmi" : 36.71954280831063
 		}
@@ -1165,7 +1165,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Portugal",
 		"value" : {
-			"avg_bmi" : 2632.2734512689217,
+			"avg_bmi" : 25.47361404453795,
 			"min_bmi" : 17.25327791895594,
 			"max_bmi" : 39.66789019620169
 		}
@@ -1173,7 +1173,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Puerto Rico",
 		"value" : {
-			"avg_bmi" : 37.89352453207862,
+			"avg_bmi" : 25.262349688052414,
 			"min_bmi" : 22.624807178343218,
 			"max_bmi" : 27.28341528253193
 		}
@@ -1197,7 +1197,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Reunion",
 		"value" : {
-			"avg_bmi" : 44.036292829742145,
+			"avg_bmi" : 26.421775697845288,
 			"min_bmi" : 18.72890348175829,
 			"max_bmi" : 39.16506059010436
 		}
@@ -1205,7 +1205,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Russia",
 		"value" : {
-			"avg_bmi" : 1376.1707893573391,
+			"avg_bmi" : 25.399125306930756,
 			"min_bmi" : 17.631221751685487,
 			"max_bmi" : 39.88445766499928
 		}
@@ -1213,7 +1213,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Rwanda",
 		"value" : {
-			"avg_bmi" : 38.940712783280844,
+			"avg_bmi" : 25.960475188853895,
 			"min_bmi" : 22.834957662274157,
 			"max_bmi" : 27.60395919371098
 		}
@@ -1221,7 +1221,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Saint Kitts and Nevis",
 		"value" : {
-			"avg_bmi" : 37.06817191351994,
+			"avg_bmi" : 27.801128935139957,
 			"min_bmi" : 25.181373219019413,
 			"max_bmi" : 30.06261206327215
 		}
@@ -1245,7 +1245,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Saudi Arabia",
 		"value" : {
-			"avg_bmi" : 51.352969951341315,
+			"avg_bmi" : 25.676484975670657,
 			"min_bmi" : 19.971991294865283,
 			"max_bmi" : 32.095388696280175
 		}
@@ -1253,7 +1253,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Senegal",
 		"value" : {
-			"avg_bmi" : 52.68503444367411,
+			"avg_bmi" : 23.415570863855162,
 			"min_bmi" : 21.10083404913989,
 			"max_bmi" : 26.591448446940536
 		}
@@ -1261,7 +1261,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Serbia",
 		"value" : {
-			"avg_bmi" : 373.94689223719047,
+			"avg_bmi" : 25.78944084394417,
 			"min_bmi" : 19.73180880155627,
 			"max_bmi" : 43.54832804682019
 		}
@@ -1277,7 +1277,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Sierra Leone",
 		"value" : {
-			"avg_bmi" : 83.71014075832919,
+			"avg_bmi" : 25.11304222749876,
 			"min_bmi" : 19.49887642053163,
 			"max_bmi" : 33.448269454681686
 		}
@@ -1301,7 +1301,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Slovenia",
 		"value" : {
-			"avg_bmi" : 159.6625711879594,
+			"avg_bmi" : 25.209879661256746,
 			"min_bmi" : 17.370385779694157,
 			"max_bmi" : 32.66109875399449
 		}
@@ -1317,7 +1317,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "South Africa",
 		"value" : {
-			"avg_bmi" : 155.18996820025652,
+			"avg_bmi" : 25.864994700042754,
 			"min_bmi" : 17.33504330126283,
 			"max_bmi" : 40.54150514193364
 		}
@@ -1325,7 +1325,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "South Korea",
 		"value" : {
-			"avg_bmi" : 505.97868244935313,
+			"avg_bmi" : 24.681886948748932,
 			"min_bmi" : 19.481858628477152,
 			"max_bmi" : 31.35384445026281
 		}
@@ -1341,7 +1341,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Spain",
 		"value" : {
-			"avg_bmi" : 196.2913079472085,
+			"avg_bmi" : 26.172174392961136,
 			"min_bmi" : 21.71883995935713,
 			"max_bmi" : 34.9356602063431
 		}
@@ -1349,7 +1349,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Sri Lanka",
 		"value" : {
-			"avg_bmi" : 110.59435784574663,
+			"avg_bmi" : 24.576523965721474,
 			"min_bmi" : 20.744421581687575,
 			"max_bmi" : 28.60361966419167
 		}
@@ -1357,7 +1357,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Sudan",
 		"value" : {
-			"avg_bmi" : 66.53800895519706,
+			"avg_bmi" : 24.951753358198896,
 			"min_bmi" : 22.77184895818426,
 			"max_bmi" : 26.388338263210727
 		}
@@ -1381,7 +1381,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Sweden",
 		"value" : {
-			"avg_bmi" : 1339.4817494503045,
+			"avg_bmi" : 25.759264412505857,
 			"min_bmi" : 18.101186860208863,
 			"max_bmi" : 40.088590561693096
 		}
@@ -1397,7 +1397,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Syria",
 		"value" : {
-			"avg_bmi" : 160.7351965910417,
+			"avg_bmi" : 25.379241567006584,
 			"min_bmi" : 18.668899303500158,
 			"max_bmi" : 36.4017489356862
 		}
@@ -1405,7 +1405,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Taiwan",
 		"value" : {
-			"avg_bmi" : 44.350255790291406,
+			"avg_bmi" : 26.610153474174844,
 			"min_bmi" : 20.359929764833222,
 			"max_bmi" : 31.171391695878288
 		}
@@ -1413,7 +1413,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Tajikistan",
 		"value" : {
-			"avg_bmi" : 137.29013826122952,
+			"avg_bmi" : 24.961843320223547,
 			"min_bmi" : 19.990278828313503,
 			"max_bmi" : 31.132650605821127
 		}
@@ -1421,7 +1421,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Tanzania",
 		"value" : {
-			"avg_bmi" : 135.63688410258894,
+			"avg_bmi" : 26.252300148888178,
 			"min_bmi" : 20.05029459378472,
 			"max_bmi" : 34.9992957297564
 		}
@@ -1429,7 +1429,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Thailand",
 		"value" : {
-			"avg_bmi" : 765.5534831843663,
+			"avg_bmi" : 25.68971420081766,
 			"min_bmi" : 18.1817173424744,
 			"max_bmi" : 35.590560182726435
 		}
@@ -1437,7 +1437,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Togo",
 		"value" : {
-			"avg_bmi" : 58.1713495289229,
+			"avg_bmi" : 23.268539811569163,
 			"min_bmi" : 21.483089176370907,
 			"max_bmi" : 24.559999693631624
 		}
@@ -1453,7 +1453,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Trinidad and Tobago",
 		"value" : {
-			"avg_bmi" : 36.798194272777316,
+			"avg_bmi" : 27.598645704582985,
 			"min_bmi" : 22.714055076873127,
 			"max_bmi" : 31.519844903401175
 		}
@@ -1461,7 +1461,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Tunisia",
 		"value" : {
-			"avg_bmi" : 350.7564528109168,
+			"avg_bmi" : 24.19010019385633,
 			"min_bmi" : 18.60519012755488,
 			"max_bmi" : 30.378661433345993
 		}
@@ -1469,7 +1469,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Turkey",
 		"value" : {
-			"avg_bmi" : 34.48738659294469,
+			"avg_bmi" : 22.991591061963124,
 			"min_bmi" : 22.712340024306464,
 			"max_bmi" : 23.218818230827427
 		}
@@ -1477,7 +1477,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Turkmenistan",
 		"value" : {
-			"avg_bmi" : 130.3734670311671,
+			"avg_bmi" : 26.074693406233422,
 			"min_bmi" : 21.536036875349122,
 			"max_bmi" : 30.263793694794966
 		}
@@ -1493,7 +1493,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Uganda",
 		"value" : {
-			"avg_bmi" : 283.79918959501316,
+			"avg_bmi" : 25.799926326819378,
 			"min_bmi" : 20.58589719317205,
 			"max_bmi" : 33.245708734909755
 		}
@@ -1501,7 +1501,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Ukraine",
 		"value" : {
-			"avg_bmi" : 2066.9047398496236,
+			"avg_bmi" : 25.2061553640198,
 			"min_bmi" : 17.021559565054986,
 			"max_bmi" : 36.84222756372365
 		}
@@ -1517,7 +1517,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "United Kingdom",
 		"value" : {
-			"avg_bmi" : 142.71441623388597,
+			"avg_bmi" : 23.785736038980996,
 			"min_bmi" : 19.427928671881645,
 			"max_bmi" : 31.903158982438534
 		}
@@ -1525,7 +1525,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "United States",
 		"value" : {
-			"avg_bmi" : 1428.9326547279377,
+			"avg_bmi" : 25.746534319422302,
 			"min_bmi" : 18.80366267168511,
 			"max_bmi" : 36.69514941999169
 		}
@@ -1533,7 +1533,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Uruguay",
 		"value" : {
-			"avg_bmi" : 109.74063516982955,
+			"avg_bmi" : 25.324761962268358,
 			"min_bmi" : 20.368800960879323,
 			"max_bmi" : 34.361426322308105
 		}
@@ -1541,7 +1541,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Uzbekistan",
 		"value" : {
-			"avg_bmi" : 207.16069376469204,
+			"avg_bmi" : 25.895086720586505,
 			"min_bmi" : 19.78219777101565,
 			"max_bmi" : 32.30460851219658
 		}
@@ -1557,7 +1557,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Venezuela",
 		"value" : {
-			"avg_bmi" : 473.35886637454297,
+			"avg_bmi" : 24.913624546028576,
 			"min_bmi" : 19.1364667985684,
 			"max_bmi" : 31.135855490289444
 		}
@@ -1565,7 +1565,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Vietnam",
 		"value" : {
-			"avg_bmi" : 692.8016186525825,
+			"avg_bmi" : 25.04102236093672,
 			"min_bmi" : 16.588074623788906,
 			"max_bmi" : 32.97072894443237
 		}
@@ -1589,7 +1589,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Yemen",
 		"value" : {
-			"avg_bmi" : 105.27306034633497,
+			"avg_bmi" : 25.52074190214181,
 			"min_bmi" : 20.910656892847584,
 			"max_bmi" : 34.85489627858924
 		}
@@ -1597,7 +1597,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Zambia",
 		"value" : {
-			"avg_bmi" : 103.43150151177437,
+			"avg_bmi" : 25.857875377943593,
 			"min_bmi" : 20.338719513529025,
 			"max_bmi" : 31.44864603504859
 		}
@@ -1605,7 +1605,7 @@ MongoDB server version: 3.6.3
 	{
 		"_id" : "Zimbabwe",
 		"value" : {
-			"avg_bmi" : 134.87959401203662,
+			"avg_bmi" : 26.975918802407325,
 			"min_bmi" : 22.609825375832813,
 			"max_bmi" : 35.12027773402992
 		}

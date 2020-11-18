@@ -6,11 +6,12 @@ printjson(db.people.mapReduce(
         sum = 0;
         min = 1000;
         max = 0;
-        count = values.length;
+        count = 0;
         for(let i=0; i< values.length; i++) {
             sum += values[i].sum_bmi;
             min = values[i].min_bmi < min ? values[i].min_bmi : min;
             max = values[i].max_bmi > max ? values[i].max_bmi : max;
+            count += values[i].count
         }
         return {sum_bmi: sum, min_bmi: min, max_bmi: max, count: count};
     },

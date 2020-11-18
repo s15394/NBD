@@ -5,11 +5,13 @@ printjson(db.people.mapReduce(
     function(key, values) { 
         sum = 0;
         avg = 0;
+        count = 0;
         values.forEach(card => {
             sum += card.sum;
             avg += card.avg;
+            count += 1
         })
-        avg = avg / values.length
+        avg = avg / count
         return { sum: sum, avg: avg}
     },
     {
