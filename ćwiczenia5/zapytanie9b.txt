@@ -1,0 +1,2 @@
+MATCH (hugo:Person { name: 'Hugo Weaving' }),(captain:Movie { title: 'Captain America: The First Avenger' })
+MERGE (hugo)-[:ACTED_IN {roles: ['Johann Schmidt', 'Red Skull']}]->(captain)

@@ -1,0 +1,1 @@
+match (matrix {title: "The Matrix"})<-[:ACTED_IN]-(people)-[:ACTED_IN]->(movies) return people, movies

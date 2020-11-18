@@ -1,0 +1,1 @@
+match (p:Person)-[:DIRECTED]->(m:Movie) where (p)-[:WROTE]->(m) return p.name,m.title
