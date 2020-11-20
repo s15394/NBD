@@ -1,0 +1,1 @@
+match (a:Airport)<-[:ORIGIN]-(d:Flight) return a, count(d) as wyloty order by wyloty

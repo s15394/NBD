@@ -1,0 +1,4 @@
+match p = (d:town {name: 'Darjeeling'})-[r:twowheeler *]->(s:peak {name: 'Sandakphu'})
+where all(r in relationships(p) where r.summer = 'true')
+return p, reduce(totalDistance = 0, r in relationships(p) | totalDistance + r.distance) as totalDistance
+order by totalDistance

@@ -1,0 +1,3 @@
+match p = shortestPath((d:town {name: Darjeeling})-[*]->(s:peak {name: Sandakphu})) 
+where all(r in relationships(p) where r.winter = true)
+return p

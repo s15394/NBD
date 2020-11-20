@@ -1,0 +1,3 @@
+match (src: Airport)-[]-()-[]-(dest:Airport)
+with src, size(collect(distinct dest)) as destinations
+return src, destinations
