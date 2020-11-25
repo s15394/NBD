@@ -1,0 +1,4 @@
+match ag = (la:Airport {name: "LAX"})-[t:BUSINESS_FLIGHT *1..3]->(d:Airport{ name: "DAY"})
+with ag as ag, reduce(totalPrice=0, r in relationships(ag) | totalPrice + r.price) as totalPrice
+return min(totalPrice)
+

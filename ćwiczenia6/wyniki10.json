@@ -1,0 +1,50 @@
+﻿[
+  {
+    "firstAirport": {
+"identity": 208,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MSN"
+      }
+    },
+    "flight1": {
+"identity": 1855,
+"start": 208,
+"end": 194,
+"type": "ECONOMIC_FLIGHT",
+"properties": {
+"price": 88.5
+      }
+    },
+    "secondAirport": {
+"identity": 194,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "flight2": {
+"identity": 1976,
+"start": 194,
+"end": 255,
+"type": "ECONOMIC_FLIGHT",
+"properties": {
+"price": 108.0
+      }
+    },
+    "thirdAirport": {
+"identity": 255,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "GRR"
+      }
+    },
+    "totalPrice": 196.5
+  }
+]

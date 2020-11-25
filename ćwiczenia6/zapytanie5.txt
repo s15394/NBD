@@ -1,0 +1,19 @@
+match (origin:Airport)<-[:ORIGIN]-(f:Flight)-[]->(dest: Airport),
+		(f)-[]-(t:Ticket {class: "economy"})
+MERGE (origin)-[:ECONOMIC_FLIGHT {price: t.price}]->(dest)
+
+match (origin:Airport)<-[:ORIGIN]-(f:Flight)-[]->(dest: Airport),
+		(f)-[]-(t:Ticket {class: "firstClass"})
+MERGE (origin)-[:FIRST_CLASS_FLIGHT {price: t.price}]->(dest)
+
+match (origin:Airport)<-[:ORIGIN]-(f:Flight)-[]->(dest: Airport),
+		(f)-[]-(t:Ticket {class: "business"})
+MERGE (origin)-[:BUSINESS_FLIGHT {price: t.price}]->(dest)
+
+match ag = (la:Airport {name: "LAX"})-[t *1..2]->(d:Airport)
+where d.name <> "LAX"
+with ag as ag, reduce(totalPrice=0, r in relationships(ag) | totalPrice + r.price) as totalPrice
+where totalPrice < 3000
+return ag, totalPrice
+
+

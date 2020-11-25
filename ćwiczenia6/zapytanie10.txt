@@ -1,0 +1,6 @@
+match (start:Airport)-[t]->(d:Airport), (d)-[t2]->(id:Airport)
+where start <> id
+with *, t.price + t2.price as totalPrice
+return start as firstAirport,t as flight1, d as secondAirport,t2 as flight2, id as thirdAirport, totalPrice
+order by totalPrice limit 1
+
