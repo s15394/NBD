@@ -1,0 +1,4 @@
+Dane nowo dodanej osoby: {'name': 'Filemon Ferby', 'nationality': 'Ireland', 'weight': 75, 'height': 169}
+Zamiana wartość pola nationality na Welsh
+Dane osoby po updatecie: {'name': 'Filemon Ferby', 'nationality': 'Welsh', 'weight': 75, 'height': 169}
+Wynik geta na usuniętym obiekcie: None
