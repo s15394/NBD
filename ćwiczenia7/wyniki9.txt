@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvt/kIb8UyGbJYEpkzGNl4FW2ucmXBQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15394>; rel="up"
+Last-Modified: Wed, 02 Dec 2020 14:39:09 GMT
+ETag: "15lrG0S3ctPRe7HEFrs3Hy"
+Date: Wed, 02 Dec 2020 14:40:54 GMT
+Content-Type: application/json
+Content-Length: 25
+
+{"name": "Filemon Ferby"}

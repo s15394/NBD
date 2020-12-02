@@ -1,0 +1,21 @@
+1.
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Wed, 02 Dec 2020 14:27:42 GMT
+Content-Type: application/json
+Content-Length: 0
+
+2.
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvt/kIZ8HEUpkymNliFOwucmXBQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15394>; rel="up"
+Last-Modified: Wed, 02 Dec 2020 14:27:42 GMT
+ETag: "4iV6zKiczhK8sfiJignAMj"
+Date: Wed, 02 Dec 2020 14:27:48 GMT
+Content-Type: application/json
+Content-Length: 96
+
+{"name": "Erik Earl", "nationality": "Ireland", "weight": 75, "height": 176, "drink": "Whiskey"}

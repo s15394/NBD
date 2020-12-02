@@ -1,0 +1,1 @@
+curl -i http://localhost:8098/buckets/s15394/keys/Erik

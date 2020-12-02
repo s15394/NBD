@@ -1,0 +1,21 @@
+1.
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Wed, 02 Dec 2020 14:33:20 GMT
+Content-Type: application/json
+Content-Length: 0
+
+2.
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvt/kIZ8HEUpkyWNl2KBoc5MvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15394>; rel="up"
+Last-Modified: Wed, 02 Dec 2020 14:33:20 GMT
+ETag: "3va7y1DZXGOJdg2oyk7HtT"
+Date: Wed, 02 Dec 2020 14:34:11 GMT
+Content-Type: application/json
+Content-Length: 85
+
+{"name": "Erik EarlGrey", "nationality": "Ireland", "weight": 75, "drink": "Whiskey"}

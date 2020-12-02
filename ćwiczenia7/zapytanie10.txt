@@ -1,0 +1,6 @@
+1.
+curl -i -XDELETE http://localhost:8098/buckets/s15394/keys/NculTRUxXBczsx0ORGMMyfjaqWs
+
+2.
+curl -i http://localhost:8098/buckets/s15394/keys/NculTRUxXBczsx0ORGMMyfjaqWs
+

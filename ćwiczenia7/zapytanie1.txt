@@ -1,0 +1,15 @@
+1.
+$ curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Alan Burger", "nationality": "USA", "weight": 120, "height": 180}' http://localhost:8098/buckets/s15394/keys/Alan
+
+2.
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Bob Osushi", "nationality": "Japan", "weight": 75, "height": 168}' http://localhost:8098/buckets/s15394/keys/Bob
+
+3.
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Cedric Tea", "nationality": "England", "weight": 85, "height": 176}' http://localhost:8098/buckets/s15394/keys/Cedric
+
+4.
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Doug Donut", "nationality": "USA", "weight": 95, "height": 176}' http://localhost:8098/buckets/s15394/keys/Doug
+
+5.
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Erik Earl", "nationality": "Ireland", "weight": 75, "height": 176}' http://localhost:8098/buckets/s15394/keys/Erik
+

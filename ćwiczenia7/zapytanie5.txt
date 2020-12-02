@@ -1,0 +1,5 @@
+1.
+curl -i -XPUT -H Content-Type: application/json -d {"name": "Erik EarlGrey", "nationality": "Ireland", "weight": 75, "drink": "Whiskey"} http://localhost:8098/buckets/s15394/keys/Erik
+
+2.
+curl -i http://localhost:8098/buckets/s15394/keys/Erik
