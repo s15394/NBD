@@ -1,0 +1,3 @@
+match p = (d:town {name: 'Darjeeling'})-[r *]->(s:peak {name: 'Sandakphu'})
+return p, reduce(totalDistance = 0, r in relationships(p) | totalDistance + r.distance) as totalDistance
+order by totalDistance
